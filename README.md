@@ -6,7 +6,7 @@ You can change the default settings:
 
 I recommend you to set the ports between 25565 - 25567 because few servers change the default port.
 
-Example Video:
+Video Example:
 
 https://github.com/user-attachments/assets/498e44c8-9a30-4027-848d-beb034098a5a
 
